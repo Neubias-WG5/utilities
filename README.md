@@ -1,7 +1,6 @@
-# utilities
 Some utility scripts used by workgroup 5
 
-# cytomine_python_client:
+# cytomine_python_client
 
 - Remove_project
 - Remove_ProjectImages
